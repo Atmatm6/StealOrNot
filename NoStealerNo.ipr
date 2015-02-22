@@ -169,10 +169,19 @@
       </item>
     </group>
   </component>
+  <component name="ProjectDictionaryState">
+    <dictionary name="Austin">
+      <words>
+        <w>loggerland</w>
+        <w>preinit</w>
+      </words>
+    </dictionary>
+  </component>
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Bedgistry/Bedgistry.iml" filepath="$PROJECT_DIR$/../Bedgistry/Bedgistry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Catalogue/Catalogue.iml" filepath="$PROJECT_DIR$/../Catalogue/Catalogue.iml" />
       <module fileurl="file://$PROJECT_DIR$/NoStealerNo.iml" filepath="$PROJECT_DIR$/NoStealerNo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../PneumaticCraft/PneumaticCraft.iml" filepath="$PROJECT_DIR$/../PneumaticCraft/PneumaticCraft.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
@@ -183,6 +192,8 @@
   </component>
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Bedgistry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
   <component name="masterDetails">
     <states>
@@ -226,4 +237,3 @@
     </states>
   </component>
 </project>
-
