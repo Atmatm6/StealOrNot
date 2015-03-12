@@ -19,7 +19,7 @@ apply plugin: 'forge'
 
 version = "0.0.0.a"
 group= "ca.Atmatm6.stealnot" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "Stealers?No!"
+archivesBaseName = "StealNot"
 
 minecraft {
     version = "1.7.10-10.13.2.1291"
